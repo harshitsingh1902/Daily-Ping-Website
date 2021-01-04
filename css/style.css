@@ -1,0 +1,67 @@
+
+        * {
+            padding: 0;
+            margin: 0;
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+
+        .header {
+            background-color: rgb(224, 224, 224);
+        }
+
+        .heading {
+            display: block;
+            font-size: 64px;
+            font-weight: 500;
+            width: 20%;
+            padding: 48px 0px;
+            margin: auto;
+
+        }
+
+        .heading1 {
+            display: inline-block;
+            padding: 20px 20px;
+            margin: 20px 1px;
+
+        }
+
+        .paraleft {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 10px;
+            width: 33%;
+            text-align: justify;
+            position: absolute;
+            top: 255px;
+            left: 3px;
+        }
+
+        .paramiddle {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 10px;
+            width: 33%;
+            text-align: justify;
+            position: absolute;
+            top: 192px;
+            left: 517px;
+        }
+
+        .heading2{
+            position: relative;
+            top: -4px;;
+            left: 714px;
+        }
+
+        .pararight{
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 10px;
+            width: 30%;
+            text-align: justify;
+            position: absolute;
+            top: 246px;
+            right: -9px;
+        }
+ 
